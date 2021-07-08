@@ -8,9 +8,9 @@ Also the user can force plugin to count again from XMLCounter admin panel
 
 Instalation:
 
-1)Download the project .zip from this repository, and install it throu wordpress plugin installation tool.
+1. Download the project .zip from this repository, and install it throu wordpress plugin installation tool.
 
 OR
 
-2) Upload and extract the .zip from this repository via FTP in folder "wp-content/plugins", and activated in "Plugins > Installed Plugins" in admin dashboard
+2. Upload and extract the .zip from this repository via FTP in folder "wp-content/plugins", and activated in "Plugins > Installed Plugins" in admin dashboard
 
