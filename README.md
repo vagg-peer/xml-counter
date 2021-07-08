@@ -7,6 +7,7 @@ This plugin automatically counts the products once a day implemented, with wp-cr
 Also the user can force plugin to count again from XMLCounter admin panel
 
 Instalation:
+
 1)Download the project .zip from this repository, and install it throu wordpress plugin installation tool.
 
 OR
