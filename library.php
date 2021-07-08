@@ -57,18 +57,4 @@ function resultsChecker(){
         }
 
     }
-
-    // if(($old_counter - $new_counter)/ $old_counter >= 0.3){
-    //     $subject= "Τα προϊόντα ";
-    //     $args = array(
-    //         'role'    => 'administrator',
-    //     );
-    //     $users = get_users( $args );
-    //     foreach($users as $user){
-    //         echo $user->user_email;
-    //     }
-
-
-    // }
-
 }
